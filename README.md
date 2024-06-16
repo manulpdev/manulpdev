@@ -1,6 +1,6 @@
 ## Hi there! 👋 I am Manuel López-Peredo and I just finish my training as a Web Developer
-## - 🔭 I am looking to improve my knowledge and learn more about programming.
-## - 🌱 I am currently learning Python but also I want to start learning about React.
+ - 🔭 I am looking to improve my knowledge and learn more about programming.
+ - 🌱 I am currently learning Python but also I want to start learning about React.
 <!--
 **manulpdev/manulpdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
