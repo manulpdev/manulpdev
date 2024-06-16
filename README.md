@@ -1,4 +1,4 @@
-## Hi there! 👋 I am Manuel López-Peredo and I just finish my training as a Web Developer
+## Hi there! 👋 I am #Manuel López-Peredo ##and I just finish my training as a Web Developer
  - 🔭 I am looking to improve my knowledge and learn more about programming.
  - 🌱 I am currently learning Python but also I want to start learning about React.
 <!--
